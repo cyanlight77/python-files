@@ -1,6 +1,6 @@
 """
 Write a Python function that takes a number as an input from the user and computes its
-factorial with recursion
+factorial without recursion
 """
 def factorial(n):
     fact = 1

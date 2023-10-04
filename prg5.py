@@ -1,6 +1,6 @@
 """
 Write a Python function that takes a number as an input from the user and computes its
-factorial without recursion
+factorial with recursion
 """
 def fact_rec(n):
     if n == 0 or n == 1:
